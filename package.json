@@ -1,0 +1,16 @@
+{
+  "name": "wusong",
+  "version": "1.0.0",
+  "description": "A framework based on umi",
+  "bin": {
+    "wusong": "cli.js"
+  },
+  "main": "index.js",
+  "keywords": ["umi"],
+  "author": "jiuyue",
+  "license": "MIT",
+  "dependencies": {
+    "umi": "^2.6.13",
+    "umi-plugin-react": "^1.7.4"
+  }
+}
